@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/casamia/static/css/main.f3982a4a.css",
+    "main.js": "/casamia/static/js/main.0a077124.js",
+    "static/js/787.f1389286.chunk.js": "/casamia/static/js/787.f1389286.chunk.js",
+    "static/media/slick.svg": "/casamia/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/casamia/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/casamia/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/casamia/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/casamia/index.html",
+    "main.f3982a4a.css.map": "/casamia/static/css/main.f3982a4a.css.map",
+    "main.0a077124.js.map": "/casamia/static/js/main.0a077124.js.map",
+    "787.f1389286.chunk.js.map": "/casamia/static/js/787.f1389286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3982a4a.css",
+    "static/js/main.0a077124.js"
+  ]
+}
